@@ -1,0 +1,16 @@
+super username
+username: admin
+password: Admin2020@
+
+_______________________________
+
+usuario normal
+username: Marta
+password: marta2021@
+
+_______________________________
+
+usuario normal
+username: cesar
+password: Cesar2020@
+
