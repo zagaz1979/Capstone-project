@@ -1,7 +1,9 @@
+python manage.py createsuperuser
+
 super username
 username: admin
+email: admin@gmail.com
 password: Admin2020@
-
 _______________________________
 
 usuario normal
